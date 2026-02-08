@@ -15,3 +15,5 @@ crash.log
 provider.tf
 *.tfvars
 *.tfvars.json
+Images
+Images/*
